@@ -35,7 +35,7 @@ namespace TuNamespace {
                         }
                         html, body {
                             margin: 0 !important;
-                            padding-bottom: 39px !important; /* Espacio inferior */
+                            padding-bottom: 38.5px !important; /* Espacio inferior */
                             padding-right: 7px !important;
                             box-sizing: border-box !important;
                             overflow-x: auto !important;
