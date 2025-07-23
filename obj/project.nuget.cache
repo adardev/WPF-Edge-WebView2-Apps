@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "myM267gldec=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adardev\\source\\repos\\GitHub\\GitHub\\GitHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adardev\\.nuget\\packages\\microsoft.web.webview2\\1.0.3351.48\\microsoft.web.webview2.1.0.3351.48.nupkg.sha512"
+  ],
+  "logs": []
+}
