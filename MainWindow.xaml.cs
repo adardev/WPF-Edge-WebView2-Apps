@@ -11,6 +11,7 @@ namespace TuNamespace {
         }
         private async void InitializeAsync() {
             await webView.EnsureCoreWebView2Async();
+            webView.CoreWebView2.Settings.IsStatusBarEnabled = false;
             webView.CoreWebView2.Settings.AreDefaultContextMenusEnabled = false;
             webView.CoreWebView2.Settings.AreDevToolsEnabled = false;
             webView.CoreWebView2.Settings.AreBrowserAcceleratorKeysEnabled = false;
